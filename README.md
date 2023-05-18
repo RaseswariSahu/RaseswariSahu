@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RaseswariSahu
 - 👀 I’m interested in web developement and programming
-- 🌱 I’m currently learning Datastructure and algorithm and Web development
+- 🌱 I’m currently learning Full Stack Web development
 - 📫 How to reach me https://github.com/RaseswariSahu
